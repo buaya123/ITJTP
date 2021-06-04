@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+}
+
+.loginTitle {
+    font-size: 36px;
+    text-align: center;
+}
+
+.verticalHR {
+  border-left: 1px solid black;
+  height: 300px;
+}
